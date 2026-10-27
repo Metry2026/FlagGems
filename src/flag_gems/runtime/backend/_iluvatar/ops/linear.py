@@ -132,8 +132,8 @@ def linear(input, weight, bias=None):
     K = input.shape[-1]
     N = weight.shape[0]
 
-    repair_r3 = (
-        input_dim == 2 and N == 130560 and K == 2048 and M == 3
+    repair_r3 = (  # Exact R3/R4 LM domain; preserve helper identity.
+        input_dim == 2 and N == 130560 and K == 2048 and M in (3, 4)
         and bias is None and input.dtype == torch.bfloat16
         and weight.dtype == torch.bfloat16 and weight.ndim == 2
         and weight.shape[1] == 2048 and input.device.type == "cuda"
