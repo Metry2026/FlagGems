@@ -133,7 +133,7 @@ def linear(input, weight, bias=None):
     N = weight.shape[0]
 
     repair_r3 = (
-        input_dim == 2 and M == 3 and N == 130560 and K == 2048
+        input_dim == 2 and N == 130560 and K == 2048 and M == 3
         and bias is None and input.dtype == torch.bfloat16
         and weight.dtype == torch.bfloat16 and weight.ndim == 2
         and weight.shape[1] == 2048 and input.device.type == "cuda"
