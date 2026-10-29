@@ -28,6 +28,7 @@ from flag_gems.utils import triton_lang_extension as ext
 from flag_gems.utils.device_info import get_l2_cache_size, get_sm_count
 
 logger = logging.getLogger(__name__)
+_METAX_GATE_UP_ENTRY = os.environ.get("FLAG_GEMS_METAX_GATE_UP_ENTRY", "off")
 EXPAND_CONFIG_FILENAME = os.path.normpath(
     os.path.join(os.path.dirname(__file__), "..", "mm_metax_expand.yaml")
 )
@@ -1163,6 +1164,13 @@ def _select_two_step_split_k(M, N, K):
 
 
 def mm(a, b):
+    if _METAX_GATE_UP_ENTRY == "mm":
+        from ._gate_up_nt_persistent import try_gate_up_mm
+
+        result = try_gate_up_mm(a, b)
+        if result is not None:
+            return result
+
     logger.debug("GEMS_METAX MM")
     device = a.device
     # handle non-contiguous inputs if necessary
@@ -1195,6 +1203,13 @@ def mm(a, b):
 
 
 def mm_out(a, b, *, out):
+    if _METAX_GATE_UP_ENTRY == "mm_out":
+        from ._gate_up_nt_persistent import try_gate_up_mm_out
+
+        result = try_gate_up_mm_out(a, b, out=out)
+        if result is not None:
+            return result
+
     logger.debug("GEMS_METAX MM_OUT")
     # handle non-contiguous inputs if necessary
     if a.stride(0) > 1 and a.stride(1) > 1:
