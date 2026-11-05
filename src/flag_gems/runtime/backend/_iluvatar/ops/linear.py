@@ -144,6 +144,19 @@ def linear(input, weight, bias=None):
     )
     input_flat = input.view(M, K)
     weight = weight.contiguous()
+    # Guard the actual operands after the parent's view/contiguous operations.
+    # Preserve valid input strides/offsets; normalize nonzero weight offsets
+    # below. The sync kernel consumes explicit strides and tensor data_ptrs.
+    repair_r5_r8 = (
+        5 <= M <= 8 and N == 130560 and K == 2048 and bias is None
+        and input_flat.dtype == torch.bfloat16
+        and weight.dtype == torch.bfloat16 and weight.ndim == 2
+        and weight.shape[1] == 2048 and input_flat.device.type == "cuda"
+        and input_flat.device == weight.device
+    )
+    if repair_r5_r8 and weight.storage_offset() != 0:
+        # A contiguous view can still retain an unaligned base offset.
+        weight = weight.clone(memory_format=torch.contiguous_format)
     output = torch.empty((M, N), device=input.device, dtype=input.dtype)
 
     grid = lambda META: (
@@ -172,6 +185,28 @@ def linear(input, weight, bias=None):
                 GROUP_M=8,
                 SPLIT_K=1,
                 BLOCK_M=4, BLOCK_N=128, BLOCK_K=32,
+                EVEN_K=True, num_warps=8, num_stages=2, num_ctas=1,
+            )
+        elif repair_r5_r8:
+            _linear_r3_sync[grid](
+                input_flat,
+                weight,
+                weight,
+                output,
+                M,
+                N,
+                K,
+                input_flat.stride(0),
+                input_flat.stride(1),
+                weight.stride(0),
+                weight.stride(1),
+                output.stride(0),
+                output.stride(1),
+                0,
+                BIAS=False,
+                GROUP_M=8,
+                SPLIT_K=1,
+                BLOCK_M=8, BLOCK_N=128, BLOCK_K=32,
                 EVEN_K=True, num_warps=8, num_stages=2, num_ctas=1,
             )
         else:
