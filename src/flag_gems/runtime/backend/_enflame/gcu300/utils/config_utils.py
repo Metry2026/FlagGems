@@ -1,1 +1,0 @@
-MAX_GRID_DIM = 128

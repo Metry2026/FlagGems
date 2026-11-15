@@ -1,9 +1,0 @@
-"""
-Example for multi-backend ops.
-
-from .sparse_attention import sparse_attn_triton
-
-__all__ = [
-    "sparse_attn_triton",
-]
-"""
