@@ -1,0 +1,2104 @@
+{
+  "keep": [
+    "final/iluvatar",
+    "final/metax",
+    "master"
+  ],
+  "remove": [
+    {
+      "repository": "FlagGems",
+      "branch": "3.5",
+      "commit": "05f53f0bc40dd7baa66ad8425a27cf2920b6b69c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "5.3.0-rc2",
+      "commit": "98fae44cdf2898f39c7f24f080d7c88b83d7c593",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "5.4.0-rc0",
+      "commit": "2693d977b5aa9229fdbab749d086a2cfca4e4b25",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "5.4.0-rc1",
+      "commit": "1df16bcbc5b9f452716402c513947666c17458b9",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "5.4.0-rc2",
+      "commit": "0d95c20928ae2002d7d51f6d2df3307eb11bd8a3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "Bowen12992-patch-1",
+      "commit": "e53f77295a608cdd630a1f639edaecbdfe68dc20",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "Dongxu-H-patch-2",
+      "commit": "fc97801d2cd7b7bd5d54dcee28a5c9c48cbfe6d5",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "Galaxy1458-patch-1",
+      "commit": "ccc4b1aaedd85023b7756efff8ce5b60dacebb9d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "Galaxy1458-patch-2",
+      "commit": "cff6c6a53954b3c8acd77dbed4c8698f34c245f1",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "Galaxy1458-patch-3",
+      "commit": "dadb2a19c62205da0c21fa49d77371641d53c06d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "adapt-mthread-20260511",
+      "commit": "a870743f58f57bac59fe46e1b3ab62c76d3ae6af",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "add-dockerignore",
+      "commit": "af18d2c432f62d7bdbe7bd909d3dd71a24bb7ef8",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "add_attention_backward",
+      "commit": "e7c6d25ba2e7113ba178aa02988dad8cfa4c5c66",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "add_fused_moe_test",
+      "commit": "806ec8907363b32d778463e2187df9b58ec04d6a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "add_mhc_op",
+      "commit": "ba34f1b40a69dc3ff8f4f1479367cab8d53d72fe",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "addflagtreetest",
+      "commit": "a12ef3a87700c91eb73dc096cd4c3de07b62ee40",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "addisin",
+      "commit": "ac18a13404e181e0230a19c40069e7a1bfa3519b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "addunique",
+      "commit": "62e51528737cabb15fc1665f4274821bb6897aea",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "archive/kernelgen-dev",
+      "commit": "0d9c3a11a33c69bdfe663cdbaa0b34cf235041e6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "arm-cpu-incubate",
+      "commit": "93713395eb1e64f13e8ad021b2026e47d7f9d64f",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "arm-cpu-temp",
+      "commit": "e32337384ec46c39e943ceee7df36760a2a40361",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ascend-dev-temp",
+      "commit": "85162f50167aabec5455847faf43a0dfa64a7320",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ascend-opt-ops-dev",
+      "commit": "528684b1750cfab1d61d06eeb980a417e9ddd949",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ascend_op",
+      "commit": "a4ce43923914aea4dc3c5f0430d800bba7125006",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ascend_swiglu",
+      "commit": "698617d44269eb97a048ba68a8c63b40e588e260",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "base_ops",
+      "commit": "b4a59b61dc53731db4b272466d1e617e652c5e6f",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "benchmark/v2.2",
+      "commit": "4f70942655b850d5ee75192a8aef17b6236af5b8",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "benchmark/v5.0.0",
+      "commit": "34699ac8606db08546c3d47fa8a816708f9cdf21",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "benchmark_fix",
+      "commit": "fc32e199b398445abc7d4d398d730d1e5f32fbe9",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "bugfix_scatter",
+      "commit": "4848665f0e09b222a4fed87ee36d2cebb6c068d7",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cambricon",
+      "commit": "634da4e1c870e0ef08e8967f635147a190dc2a96",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cambricon-202411",
+      "commit": "3762fa8a85b15788ceb6be7e09b26a1e09a4786f",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cambricon-20250219",
+      "commit": "0dd842dfe64b37db1a070579de32dcc741c670b0",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cambricon-20250222",
+      "commit": "b5042afd54a40914bc961d8da9ad32caff7f1d2d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cherry-pick-e9fe6d48",
+      "commit": "e9fe6d48fcab4f8ba0a0e0667d5a05901c3b7609",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/backend-checkout-retry",
+      "commit": "c72d1a9fbe1a0bf72382048d0e0359dd4b9c131c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/extend-init-exports-check",
+      "commit": "c22503c45ba44bfcfb2d346185149917ed4969bd",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/fix-operator-markers-underscore-convention",
+      "commit": "d3463a59c93166aabbf04c7340f7879a3925a089",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/hygon-runtime-image",
+      "commit": "5cce230b66b9db4309c29009454c1eebffd67bed",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/iluvatar-runtime-image",
+      "commit": "98307775997e8b7084c283f55a6061d5e6042475",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/metax-runtime-image",
+      "commit": "812b8dd03baf919a5dc267fdd372c6556a93ebff",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/mthreads-runtime-image",
+      "commit": "88edf37a607b195ac0759da5643434af8a7e4490",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/perf-test-current",
+      "commit": "a3a02c30b1987e25bf5772f85b22dc91419b5f4c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/preprocess-on-basic-runner-cpu",
+      "commit": "9793ae0477ccd40f77bf81944145ccfc2d460c98",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/robust-checkout-lowspeed",
+      "commit": "b8b01c1570b375a3df3ce5c2d24469c553d792a4",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/rule-check-phase1-2",
+      "commit": "34e41fb0e9ee668d15826a5d67e26ded54c02cb2",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/test-ssh-checkout",
+      "commit": "5d73f88dbb285b8e9a9d9b2446c70f16487a5319",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ci/trigger-container-backends",
+      "commit": "1cd633272b60c79af22dd43b214e0befa4f8b6bf",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-finalization-packaging-r3-20261108",
+      "commit": "f54a73fd0a3e407e63629bf5f5510efc87f2aa32",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "未查明：未找到与此分支一一对应的实验结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-parent-lmhead-sync-repair-20261105",
+      "commit": "812f3f46de69fcf33ddb880f54b57815e9b0188d",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "未查明：未找到与此分支一一对应的实验结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-001",
+      "commit": "db284bc1a4b8f14eaabfe70a5800f8da5edd2ff0",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "**最新状态：A已完成R2收尾复核：接受限定组件数值修复，7场景、63配对组完整调用均慢于BF16，停止本窗口INT8晋级；详见[A R2收尾复核（W008）](#a-r2-closeout)。工作包保持partial / DEV，研究原型默认关闭，完整模型／服务／正式评测仍未执行。原B报告、A复核与R1失败段保留历史事实，“尚未复核/尚未修复”须按其提交时点阅读。**",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-001/REPORT.md",
+      "recorded_source": "659e4aef807f8613e4c1db57e9c1bfef83b959e5:management/tasks/iluvatar/iluvatar-task-001/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-002",
+      "commit": "cb26d8c756b50da18282a3deb08276951f1b504a",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "未查明：未找到与此分支一一对应的实验结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-007",
+      "commit": "ec2da826626d50f86df883a346e6b3585eaf472e",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "| 当前处置 | 保留默认关闭原型、修复源码和全部证据；不永久启用、不自动恢复测试。后续按 [PLAN 当前修订](PLAN.md)选择必要缺口，不恢复整套 G 链 |",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-007/REPORT.md",
+      "recorded_source": "16b2034d3ac8f94eca2580ca3e0832deb4af6b93:management/tasks/iluvatar/iluvatar-task-007/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-009-scalar-pages",
+      "commit": "31db014c9638191fb59a004fe09d3a0f737c17d1",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "2026-10-30，Australia/Sydney。**最终选定task009-scalar-pages；自身首次完整精度102/105、DEV六轮及独立正式四轮均完整有效。** 独立正式4K四轮＋16K四轮已于悉尼02:24:31自然完成，1536请求全部成功，输入12582912/输出1572864 token齐全，rc0及自有清理通过，原始包54d4b82a…已核7数据成员并备份。原生R2–R4均值：4K Total2317.42 token/s、TTFT5930.42ms；16K Total1763.38 token/s、TTFT288325.80ms。4K吞吐逐轮2162.02–2531.86，波动如实保留；16K1762.91–1763.73。正式绝对结果有效，原版正式本窗口未执行，不宣布正式相对收益。 task009相对task008的DEV整版均值吞吐+2.59%/+6.29%、TTFT-6.38%/-6.75%，4K吞吐单项收益不确定；旧task008的103/10",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-009/REPORT.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-009/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-010-single-stage",
+      "commit": "6d36438bbcd4a54be57b4470510edb8966d2a1c1",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "# task010 当前摘要：已关闭，A选定stage1整版，task009回退",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-010/REPORT.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-010/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-012-gateup-swiglu-closed",
+      "commit": "37593e0f7eacdce3225e2dd68dd3bf5b7ee49e8a",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# task012 当前摘要：已结束，O204固定配对候选关闭，保留task010",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-012/REPORT.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-012/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-013-paired-rope-closed",
+      "commit": "9de5387389541f1180132eb9c5d8c8fb7c0b31e9",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "2026-10-31，Australia/Sydney。**当前固定功能式RoPE配对custom_op接入已由A关闭，保留task010。实现、真实绑定、必要直接检查和完整API成本诊断已完成；不补相邻片段、不晋105题/原生四轮，不转其它优化。** [A最终裁定](DECISION-FINAL-20261031.md)。",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-013/REPORT.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-013/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-014-fixed-g8-closed",
+      "commit": "e49480ecfcd9751a62e2bfb30021e495ba6dceb2",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "**收尾原因已更正：服务器窗口到期导致最终访问及原件回收中断，非程序或算法失败。** 用户明确确认“最后一轮是因为服务器窗口时间到了，不是你的程序问题。” 既有IDE已观察原wrapper正常结束、两阶段exit0及CSV8行，不能改写为第8轮未执行或程序失败；第8轮数值和请求成功情况仍因原件未回收而未知。见[CLOSEOUT-CAUSE-CORRECTION-20261031](CLOSEOUT-CAUSE-CORRECTION-20261031.md)及runtime/cause-correction补充。已封存裁定、135成员包和final-supplement字节/hash保持不变，不重打包、不新增测试或回收尝试。",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-014/REPORT.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-014/REPORT.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-024-current-kv-closed",
+      "commit": "7f2cf5c49892791bb43401e83c82278b77a09c65",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# A最终裁定：关闭task024固定r1",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-024/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-024/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-025-exact-packed-map-closed",
+      "commit": "c8f029efde2d1414b673cc4850598f2b27dc7f13",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# A最终裁定：关闭task025固定精确映射r1",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-025/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-025/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-026-gateup-w8a16-closed",
+      "commit": "f7597db2e018f7fda4929da6e021cdb3d38e761d",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# A最终裁定：关闭task026固定单投影W8A16首版",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-026/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-026/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-027-exact-sampling-tail",
+      "commit": "dc88f453160ac36ec5e8af4dc3f3e55967929bc2",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# task027 最终裁定：关闭固定首变体，保留022研发父",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-027/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-027/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-028-v-cache-token-layout",
+      "commit": "6d57600cbfcd797fc85ead6f671794df98c3ce6f",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# 028最终裁定：关闭固定BF16 V token连续布局首变体",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-028/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-028/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-029-gateup-w8a8",
+      "commit": "292a7de8f915fcb976d1e19c275a74eaf53d72be",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# 029最终裁定：关闭固定layer0 gate_up W8A8首变体",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-029/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-029/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task-030-v-only-int8-cache",
+      "commit": "6427ee5957ecbf6d6550ee8e7f173e59cf8ff894",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# task030 A最终裁定：关闭候选，保留精确022",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-030/A-FINAL-DECISION-20261104.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-030/A-FINAL-DECISION-20261104.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task069-private-scores-20261107",
+      "commit": "831164dc38b4f65aa24c6d8dfec0d9acc5348ee6",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "未查明：未找到明确结论摘录，请查看完整原始记录。",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-069/A-FINAL-DECISION-PLAN-r16.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-069/A-FINAL-DECISION-PLAN-r16.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task070-mixed-decode-20261107",
+      "commit": "39d3236c08dfb0944d7dbfcf819ceb797483fd20",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "# task070 / O3-02 · A终裁关闭广域固定J16（PLAN r21原文）",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-070/A-FINAL-DECISION-PLAN-r21.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-070/A-FINAL-DECISION-PLAN-r21.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "codex/iluvatar-task071-writer-w4-20261107",
+      "commit": "831164dc38b4f65aa24c6d8dfec0d9acc5348ee6",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "**071/O5-04终裁关闭本次私有入口与轻backend入口两种集成，保留069，单项发布待验。** A已直接核原r2 1200行、r3 FULL Graph 60行、新21912轻入口960行、实际两文件diff、公开模式首错与3行修正及三份审阅独备。实际冗余warp/发令减少成立，原定向copy/位型/写集、真实命中及所列Graph范围成立，但完整成本未建立值得原生晋级的综合收益。此裁定限本次两种集成，保留独立正向与未来新组织的触发条件。",
+      "evidence": "experiments/failures/records/iluvatar/iluvatar-task-071/A-FINAL-DECISION-PLAN-r33.md",
+      "recorded_source": "0ed910c9c8a77c8a21299e9ef566b114a04b905d:management/tasks/iluvatar/iluvatar-task-071/A-FINAL-DECISION-PLAN-r33.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "copilot/add-issue-template-mlir-conversion",
+      "commit": "b379693e60d27ee275017daea5e548574d3275cf",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "copilot/fix-fc72ff02-44af-4781-a91c-c5aae81cafa5",
+      "commit": "a9d06aefda9ea7c1d76bd58aa4946f1d08b4d5e6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "copilot/search-mlir-ptr-load-conversion",
+      "commit": "1721eb8be2b2bfaf7335f976f4d2522125373de6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "cpu_dev",
+      "commit": "77c074c6d99947594bc585e063ebb6aedbe90ed6",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/github_actions/actions-minor-ab6f0f0df1",
+      "commit": "fe1821d5301ed1af7958feb579a19daf7f1d3e1e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/github_actions/actions/github-script-9.0.0",
+      "commit": "7d33f13fe578aba7de4dd586d90e2d0bcc18a9c0",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/github_actions/actions/labeler-7.0.0",
+      "commit": "429e50d3093f59932e26fc46e89e43b34440d4e5",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/github_actions/actions/setup-python-7.0.0",
+      "commit": "cc5faf258b00d7bd5e4f3a00d9df49eb1902de04",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/coverage-7.15.2",
+      "commit": "9bf88b1b20b6401b3243a1056e5e8114b5545e7f",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/coverage-7.15.4",
+      "commit": "7d034fe17dc437f822677226be13c0e3a2c1d87c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/flash-attn-2.8.3.post1",
+      "commit": "1dc15a9a33666e95950bfc5e798158c8d73cb312",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/pyyaml-6.0.3",
+      "commit": "2c301a68b525bafea4c7e4661f93a917195a6bd8",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/torchaudio-2.11.0",
+      "commit": "556d2c4c3bc4d263a2bdfb5432eda45c0ce7a240",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dependabot/pip/wheel-0.47.0",
+      "commit": "79340db186d92d2f972af4f43ce1f00290a2777a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dev_cat",
+      "commit": "1f20cb4df322db56716d9161d044a46ba3d4030b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dev_gxy",
+      "commit": "1a1a7a3646356fd53970e555d47001a5b18eb194",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dev_jin",
+      "commit": "4d68a637f4ee25dc7eaea2eb5fc9f6272a02af43",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dev_sort",
+      "commit": "7f0246c81728e9677ff890efa78c40e14fb4c102",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "dev_sunrise_op",
+      "commit": "875d58366cc6d4a5812363a72f5c1edb36a99389",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "devcontainer_support",
+      "commit": "6d70cd07ab50d8f003bcf61f3bdaa645d4749e40",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "do_bench_npu_opt",
+      "commit": "0345817b617b505dfa40eb036abe09d59735e08d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "do_not_specialize",
+      "commit": "dbed3497b4791195b0e24cebd0a1a21c92db0c0f",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "enflame_fix",
+      "commit": "7395493bf055bb453e14587ad1aed3a82bb68f20",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "enflame_flagcicd",
+      "commit": "db03e392a7cc13af94a3db0596b010ff1bb304f3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feat/kernelgen-public-testing-api",
+      "commit": "a57cbb5f6daf8ad91d366169577c5f4dbd458769",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feat/new-api-for-kernelgen-server",
+      "commit": "1f145146c7affb4a349c5b1f0e0ccf9410ef3f82",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feat/p1-p3-tests-20260928-tail",
+      "commit": "4e8ecb9cbd075e3a06dfc31fcb9d7a1899602dd5",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feat/pytest-underscore-marker-plugin",
+      "commit": "97a1ba7fa430b3de7232fd20a86b4431b5baedfc",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feature/enflame",
+      "commit": "f720516a8f95e863510aee60f75d25eb282789b2",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feature/libtuner-hashkey",
+      "commit": "b604c98e0fb9d0593ca9558bc78b63dd3781942e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "feature/libtuner_add_search_stop_interface",
+      "commit": "d85c83d92e60f494b161dda0d01060963e2ecdbe",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fft_dev",
+      "commit": "81b965bf8ebd455d77306fb95234bee8c76620b3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix-cat-out-oom",
+      "commit": "fee1534a5a1ac1adb469e55249b5cd648ee3401e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix-code-style",
+      "commit": "19bb589617ddc70b6a81ef1fcf433f921ed7d415",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix-numpy",
+      "commit": "f3d33fd7a5541f5b206ec2622240e682590b03f0",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix-slice-bool",
+      "commit": "6a9572b5c96a2bf84bd48ef30351aaecc113e5b4",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix-sparse-mla",
+      "commit": "0822ce730b6fe687c9b00ee4ab2f853ea0eb3020",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/ascend-reference-case-skips",
+      "commit": "1c633fd89387dadcde433557a3817dd1dfbe36a5",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/ascend_mm",
+      "commit": "634d28c684a16abdeb42a335b6cf55670bb1e4a2",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/device-finder-import-typo",
+      "commit": "ff8190f57514c1496a84e14dc249e710b33079dc",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/my-bug-fix-master-v2",
+      "commit": "503123881d4d0951a75ce5b3f46501c21c98e92d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/one_hot_perf",
+      "commit": "6029751713e7c4c0a698351a181759b6fde2f772",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/pytest-underscore-marker-plugin",
+      "commit": "312cd6b988b0b6a3e82c21d50d21723a600af715",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/reflection_pad1d_backward_perf",
+      "commit": "5d5b0fe4324ad276e7924cf04db5181237a9a89b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix/unittest-concurrency-group",
+      "commit": "17c08928cd94286b223466a370a446354436364e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix_backends_bug",
+      "commit": "9a3c33f7658ac6d4b177b0dd558e192fb1df7d36",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix_klx_op",
+      "commit": "ea76de950742abb4093448c4c3265876a88a9b5a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix_muti_backend_bugs",
+      "commit": "6240b44a329ab82c550a61987653713150901af1",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix_skip_rmsnorm_test_name",
+      "commit": "064516d40882850953bb9cfcb3ef343e4bda15c6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "fix_triton_extra_name_on_ascend_20260225",
+      "commit": "cd35e1d234a988c3141f9642448c2966d2f83b1d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flagtree_aabs_20260424",
+      "commit": "fa8b9dfb6701a9bdc865cffe1774b1f92c2d05dd",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flagtree_aabs_enflame_20260609",
+      "commit": "ef0c289a7f3c896d0d0e0a218b87d87441301edf",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flagtree_aabs_mthreads_20260518",
+      "commit": "df49ab610f6b8a6b044148886504d09981d0dd8a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flagtree_aabs_mthreads_20260525",
+      "commit": "4922e8b482f1c8e71f1b30c0b7d313cb53ad2fda",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flagtree_splush_cache",
+      "commit": "49819b25800c1c07f9fe28d06f385728a159ab01",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "flash_attention_fix",
+      "commit": "353da869d15e3c2497933ff26146ff92ba22c378",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "gcd",
+      "commit": "2dcd0b198b0c0baf783971ad05e96334dfe81871",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "gh-pages",
+      "commit": "47589c010fa1d600b9110aaf153adcad131bb9ef",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "hip-flag-gems",
+      "commit": "32d9349298dbf0fea43ec9e8cc8d23a1ae4a1fb3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "iluvatar",
+      "commit": "8db28328684097fa5d6879d8bf1030ffc22a9129",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "just_test",
+      "commit": "90fc3cd7eeab6b7297112d55ff99779124e54bd8",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "kernelgen-dev",
+      "commit": "dd4e1ce1fe0d2d827b7187c4e43d005cdeafc485",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "klx-202411",
+      "commit": "d7a23475ed05d8521f9a574ca53c9cfcb3b4de9f",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "klx-fix-mseloss",
+      "commit": "b74251c27145aead0605a1ca09eeaf23f612c09e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "klx-fix-vdot",
+      "commit": "496eb897b1ac72ff9c7f1b131d85b19b2c16a741",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "klx_speed_to_4",
+      "commit": "30178009f8e6921a66a20a131c5557fd2bff7955",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "klxmv",
+      "commit": "1f3743fac0783858fb946834ce0193c8e274b59d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "kunlunxin",
+      "commit": "6d67b4da2d4793e192c12edfe95fd48213fc4b8a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "libcache",
+      "commit": "d669539c6abb5ea3dbf6f1451a6cc90389bc16e7",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "libtriton_kunlunxin",
+      "commit": "385248e4f27623f934bc2d1d3b32305fdb9e4ebd",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "metax",
+      "commit": "d0de5e711cca0624757f1fc035ab823db2c0bea6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "metax-task-003-gate-up-negative",
+      "commit": "f8b4d25a5f071a48016103b706d9b876725157b8",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "A复核结论：接受B关闭当前FFN gate/up BF16 GEMM持久CTA候选的决定，授权的串行DEV评估已完成。原因是两个场景完整性能证据均负向，且没有支持具体修复的新资源／占用证据；不是耗时、资源不可用或未生效。无需补全基线、完整局部成本拆分或无依据调参。",
+      "evidence": "experiments/failures/records/metax/metax-task-003/DECISION-20261029-closeout.md",
+      "recorded_source": "b8442ed7b6423e9cb7eeddf4da7a6dc8fc490a75:management/tasks/metax/metax-task-003/DECISION-20261029-closeout.md"
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mhc_ascend",
+      "commit": "6860154374bbeecb3b2ce6437df1df11aeee8f00",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "modify_device_binary_pointwise",
+      "commit": "498806abd5188414c8706649280d755ac728cce2",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "modify_device_distribution_ops",
+      "commit": "9bd01f5be65f9bc98c1d56bdba5549c2e5e55b4b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "modify_device_test_special_ops",
+      "commit": "59d2068a56f6dae74f437ba4114742791332e09e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "modify_device_unary_pointwise_ops",
+      "commit": "cfdcd5c352debb50f2a3710f8fab5dfd1d0d5a7b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "modify_input_init_device",
+      "commit": "5749fb86fe24c38cc28b0b34a3590c6c89d7f82c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mt-perf/one_hot",
+      "commit": "fa65030c5b5e37f9d2f6a2e3fb052e15f49d6e35",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mt1106",
+      "commit": "9913954b6aa3e70ff4a6e5d6f31a73e13d23ef6b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mt_adapt_1112",
+      "commit": "bef1dad2cce61a5eacfca4c52eff35953f1b2ac3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mthreads_qwen2.5VL",
+      "commit": "e5da37b45d09bc094a18f40658f31f1209bc53a2",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "mv_mm",
+      "commit": "13887e1a96a7e3c48f3a1c533375b40a566f6b7c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "op/index_select",
+      "commit": "938052d71c92f611fe1307374e207c480fb141d3",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "optimize_autotuner_20260119",
+      "commit": "af0c9bd06ea104425b8b3df587bc169b316885b4",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "perf-again/one_hot",
+      "commit": "09166a86f7607cefca0c3a953f3ca5f753c62bfa",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "perf/atten_varlen",
+      "commit": "5fa14700e27918e9bccaf51615c363b3eb42a24b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pointwise_support_inplace",
+      "commit": "8e2a0890e0535e3467039eaefe3105809e77d8fa",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr-4664",
+      "commit": "b5b31e9b7857d064c8dec244c0ff5b92d6cf9776",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr-910",
+      "commit": "a8df16abf93ffd4f5fafb539c27d88799d856b4a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr-922",
+      "commit": "935324072e4386a2ec80ac17e1780956a3f0ac2e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-__xor__",
+      "commit": "76f9ee12861e806570e9e6593fc0e8ba6ec70760",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-_upsample_nearest_exact3d",
+      "commit": "87d475d62ba21489bb332067656647ddaf2d08e6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-acosh",
+      "commit": "2efe2a93f1e88d210a68207edc26e0fda8f2aef9",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-diagonal_scatter",
+      "commit": "9387c31d5bdb7666480714c1c2d3b357a751523d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-gcd_",
+      "commit": "364162741599ea967d0190eee10d97a73ea61c96",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/nv-special_digamma",
+      "commit": "2c6b52889bb13a898aa4b0d8ef30a5f0c8870e1b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pr/thead-triton-unified-attention",
+      "commit": "b5b31e9b7857d064c8dec244c0ff5b92d6cf9776",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pretune",
+      "commit": "45037299f98b4330f8ea8d60c44bbc40b162f8ad",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "pretune-metax",
+      "commit": "6dde4321f77aecae3298606873e651046d65a86a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "probe-torch",
+      "commit": "d4e5609022d03d6cdc645a92a006fbc1a76788b4",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "qwen-vllm_for_ascend",
+      "commit": "3b406c36212744b98b9720bf6d0a5387c09fe96b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "qwennext",
+      "commit": "4eda19ff41955ec929188366a6874f8ffaa4a5e0",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-11-benchmark/v2.2",
+      "commit": "cc5e1e6c53323770592db0eb602312098e0aeac6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-12-benchmark/v5.0.0",
+      "commit": "e229110bc9f63d2c7a005f3a6d7ad0d043c2a570",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-2044-update-cpp-ci",
+      "commit": "8e865433e6117631beda5e51566c6400fc0471b5",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-3329-topk",
+      "commit": "2a95f96c7459ce46f12275cb7fb6831e750ac501",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-3595-Galaxy1458-patch-4",
+      "commit": "6c67705888c094d88106bce40869e886949e0432",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-3875-pr/arctan_",
+      "commit": "9e05476fcef5e9cc2017b11c473092243377377a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-5775-pr/nested_to_padded_tensor",
+      "commit": "64f4f2c165fa6b5a39a5e9d4bd04b539d8d5a3bc",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "revert-809-fix_fill",
+      "commit": "3f04053868cde408cabe7a4ed18fc3ad755a037b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "rollback_mthreads",
+      "commit": "bb1469aa6529806341abd4d9dd83b428c5c0c342",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "scatter_perf",
+      "commit": "bb5f34a2fbd3fcfa8f8245aff298fd77b0b562ab",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "sophgo_20250626",
+      "commit": "6ca28661f1154c19e28f6dc56c90f4b813d91172",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "speed_cat",
+      "commit": "9a1c5fe05b8a4137798fca718dd43945c2dfca05",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "speed_full",
+      "commit": "4e3aaaf44586f883fa3f1ca9b3ac546e67a379b1",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "split-psummary",
+      "commit": "88b87cdce8d5af1508c556ac94a4e917ba82e773",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "test_cummax/cummin_with_nan",
+      "commit": "81433fd9e81ca44ab5ead2ef79580588c4206b5e",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "test_iluvatar",
+      "commit": "a454beea4c289959d6599aad36ab42d40bd4e095",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "test_moore_radix_sort",
+      "commit": "051651afb8678e6b8f118bae98f725002936d612",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "tm_fix_test_case",
+      "commit": "f830cef9d993d1634af80c899ed05aa8bbe71994",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "ts-0708",
+      "commit": "7818d96e47a785b1e51eb45ab2584b16caeff2ae",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "tsingmicro-master",
+      "commit": "e9070806bb41c5e469b62a8e8dfa616c687413a9",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "tsingmicro0605",
+      "commit": "71fcbc0a552872a125f3c247dfe31103dc1d7592",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "unskip-conv-depthwise2d",
+      "commit": "955fddd1e51709eb67e7dafc80c93508a30881cf",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "update-pyproject",
+      "commit": "ca98ff3ca7abf83a542520f1c7c74651ad9699ae",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "use-iluvatar-for-ut",
+      "commit": "c4f9a9e6ae079909a991aad244730db95d2764a6",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.0-perf-cambricon",
+      "commit": "4411c5ea14c6e8a8a15149999cf6724387b24d64",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.0-perf-hip",
+      "commit": "4c9219c3f68502336fc005a6f09340fd038cc97c",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.0-perf-klx",
+      "commit": "08715dba7eca1236245576f5ac6da3a649c8a73a",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.0-perf-metax",
+      "commit": "c7890852c7e23aa31d0be853272cb9c96258d044",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.0-perf-tsingmicro",
+      "commit": "116d0491b769a8f9e83d6536d7177fc7c6b167b4",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v2.2-perf-tsingmicro",
+      "commit": "46ae614261df512c7760c27dae910c8c92ed3a2d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "v5.3.0-rc0",
+      "commit": "67aa4e6d1e189d4d2221a19d51dfe93cd786612a",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "validation_for_klx",
+      "commit": "f5c751b33ac286569b51663d66ad5ffd18bffa80",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "w006-paged-gqa-b-20261022",
+      "commit": "943c22af6260bfa77f9a8a3f00213ce64378422b",
+      "classification": "历史实现已纳入最终版本，分支名退役",
+      "reason_excerpt": "未查明：未找到与此分支一一对应的实验结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "w007-mixed-split-20261022",
+      "commit": "7c2ceed1665027e2e1ffff083801cac5952bb8d4",
+      "classification": "未采用项目候选",
+      "reason_excerpt": "未查明：未找到与此分支一一对应的实验结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "w8a8_block_fp8_matmul_jinjieliu",
+      "commit": "d880f6879639cef48a6c35ee7086b541a103572b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "with_paddle",
+      "commit": "9e94e7e102814482bedbe0f758eb05425eee970b",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "xjh-wheels",
+      "commit": "4428e6456ed637eadad1eb634f0401295b717933",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    },
+    {
+      "repository": "FlagGems",
+      "branch": "youngcino-patch-1",
+      "commit": "c807dc03e26b97bdbdf5f6dd6f52e765a060883d",
+      "classification": "上游继承分支",
+      "reason_excerpt": "上游继承分支，未作为本项目最终版本；没有本项目失败结论。",
+      "evidence": "",
+      "recorded_source": ""
+    }
+  ],
+  "original_heads": {
+    "3.5": "05f53f0bc40dd7baa66ad8425a27cf2920b6b69c",
+    "5.3.0-rc2": "98fae44cdf2898f39c7f24f080d7c88b83d7c593",
+    "5.4.0-rc0": "2693d977b5aa9229fdbab749d086a2cfca4e4b25",
+    "5.4.0-rc1": "1df16bcbc5b9f452716402c513947666c17458b9",
+    "5.4.0-rc2": "0d95c20928ae2002d7d51f6d2df3307eb11bd8a3",
+    "Bowen12992-patch-1": "e53f77295a608cdd630a1f639edaecbdfe68dc20",
+    "Dongxu-H-patch-2": "fc97801d2cd7b7bd5d54dcee28a5c9c48cbfe6d5",
+    "Galaxy1458-patch-1": "ccc4b1aaedd85023b7756efff8ce5b60dacebb9d",
+    "Galaxy1458-patch-2": "cff6c6a53954b3c8acd77dbed4c8698f34c245f1",
+    "Galaxy1458-patch-3": "dadb2a19c62205da0c21fa49d77371641d53c06d",
+    "adapt-mthread-20260511": "a870743f58f57bac59fe46e1b3ab62c76d3ae6af",
+    "add-dockerignore": "af18d2c432f62d7bdbe7bd909d3dd71a24bb7ef8",
+    "add_attention_backward": "e7c6d25ba2e7113ba178aa02988dad8cfa4c5c66",
+    "add_fused_moe_test": "806ec8907363b32d778463e2187df9b58ec04d6a",
+    "add_mhc_op": "ba34f1b40a69dc3ff8f4f1479367cab8d53d72fe",
+    "addflagtreetest": "a12ef3a87700c91eb73dc096cd4c3de07b62ee40",
+    "addisin": "ac18a13404e181e0230a19c40069e7a1bfa3519b",
+    "addunique": "62e51528737cabb15fc1665f4274821bb6897aea",
+    "archive/kernelgen-dev": "0d9c3a11a33c69bdfe663cdbaa0b34cf235041e6",
+    "arm-cpu-incubate": "93713395eb1e64f13e8ad021b2026e47d7f9d64f",
+    "arm-cpu-temp": "e32337384ec46c39e943ceee7df36760a2a40361",
+    "ascend-dev-temp": "85162f50167aabec5455847faf43a0dfa64a7320",
+    "ascend-opt-ops-dev": "528684b1750cfab1d61d06eeb980a417e9ddd949",
+    "ascend_op": "a4ce43923914aea4dc3c5f0430d800bba7125006",
+    "ascend_swiglu": "698617d44269eb97a048ba68a8c63b40e588e260",
+    "base_ops": "b4a59b61dc53731db4b272466d1e617e652c5e6f",
+    "benchmark/v2.2": "4f70942655b850d5ee75192a8aef17b6236af5b8",
+    "benchmark/v5.0.0": "34699ac8606db08546c3d47fa8a816708f9cdf21",
+    "benchmark_fix": "fc32e199b398445abc7d4d398d730d1e5f32fbe9",
+    "bugfix_scatter": "4848665f0e09b222a4fed87ee36d2cebb6c068d7",
+    "cambricon": "634da4e1c870e0ef08e8967f635147a190dc2a96",
+    "cambricon-202411": "3762fa8a85b15788ceb6be7e09b26a1e09a4786f",
+    "cambricon-20250219": "0dd842dfe64b37db1a070579de32dcc741c670b0",
+    "cambricon-20250222": "b5042afd54a40914bc961d8da9ad32caff7f1d2d",
+    "cherry-pick-e9fe6d48": "e9fe6d48fcab4f8ba0a0e0667d5a05901c3b7609",
+    "ci/backend-checkout-retry": "c72d1a9fbe1a0bf72382048d0e0359dd4b9c131c",
+    "ci/extend-init-exports-check": "c22503c45ba44bfcfb2d346185149917ed4969bd",
+    "ci/fix-operator-markers-underscore-convention": "d3463a59c93166aabbf04c7340f7879a3925a089",
+    "ci/hygon-runtime-image": "5cce230b66b9db4309c29009454c1eebffd67bed",
+    "ci/iluvatar-runtime-image": "98307775997e8b7084c283f55a6061d5e6042475",
+    "ci/metax-runtime-image": "812b8dd03baf919a5dc267fdd372c6556a93ebff",
+    "ci/mthreads-runtime-image": "88edf37a607b195ac0759da5643434af8a7e4490",
+    "ci/perf-test-current": "a3a02c30b1987e25bf5772f85b22dc91419b5f4c",
+    "ci/preprocess-on-basic-runner-cpu": "9793ae0477ccd40f77bf81944145ccfc2d460c98",
+    "ci/robust-checkout-lowspeed": "b8b01c1570b375a3df3ce5c2d24469c553d792a4",
+    "ci/rule-check-phase1-2": "34e41fb0e9ee668d15826a5d67e26ded54c02cb2",
+    "ci/test-ssh-checkout": "5d73f88dbb285b8e9a9d9b2446c70f16487a5319",
+    "ci/trigger-container-backends": "1cd633272b60c79af22dd43b214e0befa4f8b6bf",
+    "codex/iluvatar-finalization-packaging-r3-20261108": "f54a73fd0a3e407e63629bf5f5510efc87f2aa32",
+    "codex/iluvatar-parent-lmhead-sync-repair-20261105": "812f3f46de69fcf33ddb880f54b57815e9b0188d",
+    "codex/iluvatar-task-001": "db284bc1a4b8f14eaabfe70a5800f8da5edd2ff0",
+    "codex/iluvatar-task-002": "cb26d8c756b50da18282a3deb08276951f1b504a",
+    "codex/iluvatar-task-007": "ec2da826626d50f86df883a346e6b3585eaf472e",
+    "codex/iluvatar-task-009-scalar-pages": "31db014c9638191fb59a004fe09d3a0f737c17d1",
+    "codex/iluvatar-task-010-single-stage": "6d36438bbcd4a54be57b4470510edb8966d2a1c1",
+    "codex/iluvatar-task-012-gateup-swiglu-closed": "37593e0f7eacdce3225e2dd68dd3bf5b7ee49e8a",
+    "codex/iluvatar-task-013-paired-rope-closed": "9de5387389541f1180132eb9c5d8c8fb7c0b31e9",
+    "codex/iluvatar-task-014-fixed-g8-closed": "e49480ecfcd9751a62e2bfb30021e495ba6dceb2",
+    "codex/iluvatar-task-024-current-kv-closed": "7f2cf5c49892791bb43401e83c82278b77a09c65",
+    "codex/iluvatar-task-025-exact-packed-map-closed": "c8f029efde2d1414b673cc4850598f2b27dc7f13",
+    "codex/iluvatar-task-026-gateup-w8a16-closed": "f7597db2e018f7fda4929da6e021cdb3d38e761d",
+    "codex/iluvatar-task-027-exact-sampling-tail": "dc88f453160ac36ec5e8af4dc3f3e55967929bc2",
+    "codex/iluvatar-task-028-v-cache-token-layout": "6d57600cbfcd797fc85ead6f671794df98c3ce6f",
+    "codex/iluvatar-task-029-gateup-w8a8": "292a7de8f915fcb976d1e19c275a74eaf53d72be",
+    "codex/iluvatar-task-030-v-only-int8-cache": "6427ee5957ecbf6d6550ee8e7f173e59cf8ff894",
+    "codex/iluvatar-task069-private-scores-20261107": "831164dc38b4f65aa24c6d8dfec0d9acc5348ee6",
+    "codex/iluvatar-task070-mixed-decode-20261107": "39d3236c08dfb0944d7dbfcf819ceb797483fd20",
+    "codex/iluvatar-task071-writer-w4-20261107": "831164dc38b4f65aa24c6d8dfec0d9acc5348ee6",
+    "copilot/add-issue-template-mlir-conversion": "b379693e60d27ee275017daea5e548574d3275cf",
+    "copilot/fix-fc72ff02-44af-4781-a91c-c5aae81cafa5": "a9d06aefda9ea7c1d76bd58aa4946f1d08b4d5e6",
+    "copilot/search-mlir-ptr-load-conversion": "1721eb8be2b2bfaf7335f976f4d2522125373de6",
+    "cpu_dev": "77c074c6d99947594bc585e063ebb6aedbe90ed6",
+    "dependabot/github_actions/actions-minor-ab6f0f0df1": "fe1821d5301ed1af7958feb579a19daf7f1d3e1e",
+    "dependabot/github_actions/actions/github-script-9.0.0": "7d33f13fe578aba7de4dd586d90e2d0bcc18a9c0",
+    "dependabot/github_actions/actions/labeler-7.0.0": "429e50d3093f59932e26fc46e89e43b34440d4e5",
+    "dependabot/github_actions/actions/setup-python-7.0.0": "cc5faf258b00d7bd5e4f3a00d9df49eb1902de04",
+    "dependabot/pip/coverage-7.15.2": "9bf88b1b20b6401b3243a1056e5e8114b5545e7f",
+    "dependabot/pip/coverage-7.15.4": "7d034fe17dc437f822677226be13c0e3a2c1d87c",
+    "dependabot/pip/flash-attn-2.8.3.post1": "1dc15a9a33666e95950bfc5e798158c8d73cb312",
+    "dependabot/pip/pyyaml-6.0.3": "2c301a68b525bafea4c7e4661f93a917195a6bd8",
+    "dependabot/pip/torchaudio-2.11.0": "556d2c4c3bc4d263a2bdfb5432eda45c0ce7a240",
+    "dependabot/pip/wheel-0.47.0": "79340db186d92d2f972af4f43ce1f00290a2777a",
+    "dev_cat": "1f20cb4df322db56716d9161d044a46ba3d4030b",
+    "dev_gxy": "1a1a7a3646356fd53970e555d47001a5b18eb194",
+    "dev_jin": "4d68a637f4ee25dc7eaea2eb5fc9f6272a02af43",
+    "dev_sort": "7f0246c81728e9677ff890efa78c40e14fb4c102",
+    "dev_sunrise_op": "875d58366cc6d4a5812363a72f5c1edb36a99389",
+    "devcontainer_support": "6d70cd07ab50d8f003bcf61f3bdaa645d4749e40",
+    "do_bench_npu_opt": "0345817b617b505dfa40eb036abe09d59735e08d",
+    "do_not_specialize": "dbed3497b4791195b0e24cebd0a1a21c92db0c0f",
+    "enflame_fix": "7395493bf055bb453e14587ad1aed3a82bb68f20",
+    "enflame_flagcicd": "db03e392a7cc13af94a3db0596b010ff1bb304f3",
+    "feat/kernelgen-public-testing-api": "a57cbb5f6daf8ad91d366169577c5f4dbd458769",
+    "feat/new-api-for-kernelgen-server": "1f145146c7affb4a349c5b1f0e0ccf9410ef3f82",
+    "feat/p1-p3-tests-20260928-tail": "4e8ecb9cbd075e3a06dfc31fcb9d7a1899602dd5",
+    "feat/pytest-underscore-marker-plugin": "97a1ba7fa430b3de7232fd20a86b4431b5baedfc",
+    "feature/enflame": "f720516a8f95e863510aee60f75d25eb282789b2",
+    "feature/libtuner-hashkey": "b604c98e0fb9d0593ca9558bc78b63dd3781942e",
+    "feature/libtuner_add_search_stop_interface": "d85c83d92e60f494b161dda0d01060963e2ecdbe",
+    "fft_dev": "81b965bf8ebd455d77306fb95234bee8c76620b3",
+    "final/iluvatar": "831164dc38b4f65aa24c6d8dfec0d9acc5348ee6",
+    "final/metax": "a7620cc191a0b42e040194622c5758b22a7a25dc",
+    "fix-cat-out-oom": "fee1534a5a1ac1adb469e55249b5cd648ee3401e",
+    "fix-code-style": "19bb589617ddc70b6a81ef1fcf433f921ed7d415",
+    "fix-numpy": "f3d33fd7a5541f5b206ec2622240e682590b03f0",
+    "fix-slice-bool": "6a9572b5c96a2bf84bd48ef30351aaecc113e5b4",
+    "fix-sparse-mla": "0822ce730b6fe687c9b00ee4ab2f853ea0eb3020",
+    "fix/ascend-reference-case-skips": "1c633fd89387dadcde433557a3817dd1dfbe36a5",
+    "fix/ascend_mm": "634d28c684a16abdeb42a335b6cf55670bb1e4a2",
+    "fix/device-finder-import-typo": "ff8190f57514c1496a84e14dc249e710b33079dc",
+    "fix/my-bug-fix-master-v2": "503123881d4d0951a75ce5b3f46501c21c98e92d",
+    "fix/one_hot_perf": "6029751713e7c4c0a698351a181759b6fde2f772",
+    "fix/pytest-underscore-marker-plugin": "312cd6b988b0b6a3e82c21d50d21723a600af715",
+    "fix/reflection_pad1d_backward_perf": "5d5b0fe4324ad276e7924cf04db5181237a9a89b",
+    "fix/unittest-concurrency-group": "17c08928cd94286b223466a370a446354436364e",
+    "fix_backends_bug": "9a3c33f7658ac6d4b177b0dd558e192fb1df7d36",
+    "fix_klx_op": "ea76de950742abb4093448c4c3265876a88a9b5a",
+    "fix_muti_backend_bugs": "6240b44a329ab82c550a61987653713150901af1",
+    "fix_skip_rmsnorm_test_name": "064516d40882850953bb9cfcb3ef343e4bda15c6",
+    "fix_triton_extra_name_on_ascend_20260225": "cd35e1d234a988c3141f9642448c2966d2f83b1d",
+    "flagtree_aabs_20260424": "fa8b9dfb6701a9bdc865cffe1774b1f92c2d05dd",
+    "flagtree_aabs_enflame_20260609": "ef0c289a7f3c896d0d0e0a218b87d87441301edf",
+    "flagtree_aabs_mthreads_20260518": "df49ab610f6b8a6b044148886504d09981d0dd8a",
+    "flagtree_aabs_mthreads_20260525": "4922e8b482f1c8e71f1b30c0b7d313cb53ad2fda",
+    "flagtree_splush_cache": "49819b25800c1c07f9fe28d06f385728a159ab01",
+    "flash_attention_fix": "353da869d15e3c2497933ff26146ff92ba22c378",
+    "gcd": "2dcd0b198b0c0baf783971ad05e96334dfe81871",
+    "gh-pages": "47589c010fa1d600b9110aaf153adcad131bb9ef",
+    "hip-flag-gems": "32d9349298dbf0fea43ec9e8cc8d23a1ae4a1fb3",
+    "iluvatar": "8db28328684097fa5d6879d8bf1030ffc22a9129",
+    "just_test": "90fc3cd7eeab6b7297112d55ff99779124e54bd8",
+    "kernelgen-dev": "dd4e1ce1fe0d2d827b7187c4e43d005cdeafc485",
+    "klx-202411": "d7a23475ed05d8521f9a574ca53c9cfcb3b4de9f",
+    "klx-fix-mseloss": "b74251c27145aead0605a1ca09eeaf23f612c09e",
+    "klx-fix-vdot": "496eb897b1ac72ff9c7f1b131d85b19b2c16a741",
+    "klx_speed_to_4": "30178009f8e6921a66a20a131c5557fd2bff7955",
+    "klxmv": "1f3743fac0783858fb946834ce0193c8e274b59d",
+    "kunlunxin": "6d67b4da2d4793e192c12edfe95fd48213fc4b8a",
+    "libcache": "d669539c6abb5ea3dbf6f1451a6cc90389bc16e7",
+    "libtriton_kunlunxin": "385248e4f27623f934bc2d1d3b32305fdb9e4ebd",
+    "master": "57d46fba88c068cb1548c9934b57b2b760309862",
+    "metax": "d0de5e711cca0624757f1fc035ab823db2c0bea6",
+    "metax-task-003-gate-up-negative": "f8b4d25a5f071a48016103b706d9b876725157b8",
+    "mhc_ascend": "6860154374bbeecb3b2ce6437df1df11aeee8f00",
+    "modify_device_binary_pointwise": "498806abd5188414c8706649280d755ac728cce2",
+    "modify_device_distribution_ops": "9bd01f5be65f9bc98c1d56bdba5549c2e5e55b4b",
+    "modify_device_test_special_ops": "59d2068a56f6dae74f437ba4114742791332e09e",
+    "modify_device_unary_pointwise_ops": "cfdcd5c352debb50f2a3710f8fab5dfd1d0d5a7b",
+    "modify_input_init_device": "5749fb86fe24c38cc28b0b34a3590c6c89d7f82c",
+    "mt-perf/one_hot": "fa65030c5b5e37f9d2f6a2e3fb052e15f49d6e35",
+    "mt1106": "9913954b6aa3e70ff4a6e5d6f31a73e13d23ef6b",
+    "mt_adapt_1112": "bef1dad2cce61a5eacfca4c52eff35953f1b2ac3",
+    "mthreads_qwen2.5VL": "e5da37b45d09bc094a18f40658f31f1209bc53a2",
+    "mv_mm": "13887e1a96a7e3c48f3a1c533375b40a566f6b7c",
+    "op/index_select": "938052d71c92f611fe1307374e207c480fb141d3",
+    "optimize_autotuner_20260119": "af0c9bd06ea104425b8b3df587bc169b316885b4",
+    "perf-again/one_hot": "09166a86f7607cefca0c3a953f3ca5f753c62bfa",
+    "perf/atten_varlen": "5fa14700e27918e9bccaf51615c363b3eb42a24b",
+    "pointwise_support_inplace": "8e2a0890e0535e3467039eaefe3105809e77d8fa",
+    "pr-4664": "b5b31e9b7857d064c8dec244c0ff5b92d6cf9776",
+    "pr-910": "a8df16abf93ffd4f5fafb539c27d88799d856b4a",
+    "pr-922": "935324072e4386a2ec80ac17e1780956a3f0ac2e",
+    "pr/nv-__xor__": "76f9ee12861e806570e9e6593fc0e8ba6ec70760",
+    "pr/nv-_upsample_nearest_exact3d": "87d475d62ba21489bb332067656647ddaf2d08e6",
+    "pr/nv-acosh": "2efe2a93f1e88d210a68207edc26e0fda8f2aef9",
+    "pr/nv-diagonal_scatter": "9387c31d5bdb7666480714c1c2d3b357a751523d",
+    "pr/nv-gcd_": "364162741599ea967d0190eee10d97a73ea61c96",
+    "pr/nv-special_digamma": "2c6b52889bb13a898aa4b0d8ef30a5f0c8870e1b",
+    "pr/thead-triton-unified-attention": "b5b31e9b7857d064c8dec244c0ff5b92d6cf9776",
+    "pretune": "45037299f98b4330f8ea8d60c44bbc40b162f8ad",
+    "pretune-metax": "6dde4321f77aecae3298606873e651046d65a86a",
+    "probe-torch": "d4e5609022d03d6cdc645a92a006fbc1a76788b4",
+    "qwen-vllm_for_ascend": "3b406c36212744b98b9720bf6d0a5387c09fe96b",
+    "qwennext": "4eda19ff41955ec929188366a6874f8ffaa4a5e0",
+    "revert-11-benchmark/v2.2": "cc5e1e6c53323770592db0eb602312098e0aeac6",
+    "revert-12-benchmark/v5.0.0": "e229110bc9f63d2c7a005f3a6d7ad0d043c2a570",
+    "revert-2044-update-cpp-ci": "8e865433e6117631beda5e51566c6400fc0471b5",
+    "revert-3329-topk": "2a95f96c7459ce46f12275cb7fb6831e750ac501",
+    "revert-3595-Galaxy1458-patch-4": "6c67705888c094d88106bce40869e886949e0432",
+    "revert-3875-pr/arctan_": "9e05476fcef5e9cc2017b11c473092243377377a",
+    "revert-5775-pr/nested_to_padded_tensor": "64f4f2c165fa6b5a39a5e9d4bd04b539d8d5a3bc",
+    "revert-809-fix_fill": "3f04053868cde408cabe7a4ed18fc3ad755a037b",
+    "rollback_mthreads": "bb1469aa6529806341abd4d9dd83b428c5c0c342",
+    "scatter_perf": "bb5f34a2fbd3fcfa8f8245aff298fd77b0b562ab",
+    "sophgo_20250626": "6ca28661f1154c19e28f6dc56c90f4b813d91172",
+    "speed_cat": "9a1c5fe05b8a4137798fca718dd43945c2dfca05",
+    "speed_full": "4e3aaaf44586f883fa3f1ca9b3ac546e67a379b1",
+    "split-psummary": "88b87cdce8d5af1508c556ac94a4e917ba82e773",
+    "test_cummax/cummin_with_nan": "81433fd9e81ca44ab5ead2ef79580588c4206b5e",
+    "test_iluvatar": "a454beea4c289959d6599aad36ab42d40bd4e095",
+    "test_moore_radix_sort": "051651afb8678e6b8f118bae98f725002936d612",
+    "tm_fix_test_case": "f830cef9d993d1634af80c899ed05aa8bbe71994",
+    "ts-0708": "7818d96e47a785b1e51eb45ab2584b16caeff2ae",
+    "tsingmicro-master": "e9070806bb41c5e469b62a8e8dfa616c687413a9",
+    "tsingmicro0605": "71fcbc0a552872a125f3c247dfe31103dc1d7592",
+    "unskip-conv-depthwise2d": "955fddd1e51709eb67e7dafc80c93508a30881cf",
+    "update-pyproject": "ca98ff3ca7abf83a542520f1c7c74651ad9699ae",
+    "use-iluvatar-for-ut": "c4f9a9e6ae079909a991aad244730db95d2764a6",
+    "v2.0-perf-cambricon": "4411c5ea14c6e8a8a15149999cf6724387b24d64",
+    "v2.0-perf-hip": "4c9219c3f68502336fc005a6f09340fd038cc97c",
+    "v2.0-perf-klx": "08715dba7eca1236245576f5ac6da3a649c8a73a",
+    "v2.0-perf-metax": "c7890852c7e23aa31d0be853272cb9c96258d044",
+    "v2.0-perf-tsingmicro": "116d0491b769a8f9e83d6536d7177fc7c6b167b4",
+    "v2.2-perf-tsingmicro": "46ae614261df512c7760c27dae910c8c92ed3a2d",
+    "v5.3.0-rc0": "67aa4e6d1e189d4d2221a19d51dfe93cd786612a",
+    "validation_for_klx": "f5c751b33ac286569b51663d66ad5ffd18bffa80",
+    "w006-paged-gqa-b-20261022": "943c22af6260bfa77f9a8a3f00213ce64378422b",
+    "w007-mixed-split-20261022": "7c2ceed1665027e2e1ffff083801cac5952bb8d4",
+    "w8a8_block_fp8_matmul_jinjieliu": "d880f6879639cef48a6c35ee7086b541a103572b",
+    "with_paddle": "9e94e7e102814482bedbe0f758eb05425eee970b",
+    "xjh-wheels": "4428e6456ed637eadad1eb634f0401295b717933",
+    "youngcino-patch-1": "c807dc03e26b97bdbdf5f6dd6f52e765a060883d"
+  }
+}
