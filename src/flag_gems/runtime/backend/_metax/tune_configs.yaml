@@ -377,6 +377,45 @@ mm_nt:
     scenario: ""
   num_stages: 2
   num_warps: 8
+# S3-C: the stock mm_nt list stops at 128x128 (and 256x64) tiles, so on C500 the
+# tuner can never see a config wide enough to reuse A/B tiles.  Measured on this box
+# (same kernel body, event timing, M=2048): gate_up 128x128x32 s2 = 0.911 ms,
+# 256x256x32 s2 = 0.724 ms; qkv 128x128x32 s2 = 0.263 ms, 256x256x32 s2 = 0.199 ms.
+# All four are smem-feasible on the 64 KB/SM part and survive _prune_mm_dense_configs
+# for M>=1024 (they are pruned out for M<1024 by the existing warps/block_m rule,
+# so the decode keys keep their tuned configs).
+- META:
+    BLOCK_M: 256
+    BLOCK_N: 256
+    BLOCK_K: 32
+    pipeline: "basic"
+    scenario: ""
+  num_stages: 2
+  num_warps: 8
+- META:
+    BLOCK_M: 256
+    BLOCK_N: 128
+    BLOCK_K: 32
+    pipeline: "basic"
+    scenario: ""
+  num_stages: 2
+  num_warps: 8
+- META:
+    BLOCK_M: 128
+    BLOCK_N: 256
+    BLOCK_K: 32
+    pipeline: "basic"
+    scenario: ""
+  num_stages: 2
+  num_warps: 8
+- META:
+    BLOCK_M: 256
+    BLOCK_N: 256
+    BLOCK_K: 16
+    pipeline: "basic"
+    scenario: ""
+  num_stages: 3
+  num_warps: 8
 mm_splitk:
 - META:
     BLOCK_M: 16
