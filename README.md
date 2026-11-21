@@ -1,26 +1,15 @@
-# MiniCPM 比赛项目 · FlagGems
+# MiniCPM 项目结题 · FlagGems
 
-本仓库是 Metry2026 的比赛工作仓库。更新：2026-11-16。
+唯一最后交付版本：**W023 v3**。源码固定在 [w023-v3](https://github.com/Metry2026/FlagGems/tree/w023-v3)，亦保留 `final/submit-20261118`。
 
-| 平台 | 当前最终版本 | 固定提交 | 交付与测试说明 |
-|---|---|---|---|
-| 天数 BI-V150 · r7 | [final/iluvatar](https://github.com/Metry2026/FlagGems/tree/final/iluvatar) | `831164dc38b4f65aa24c6d8dfec0d9acc5348ee6` | [r7 材料与验收](https://github.com/Metry2026/doc/tree/final/iluvatar) |
-| 沐曦 C500 | [final/metax](https://github.com/Metry2026/FlagGems/tree/final/metax) | `a7620cc191a0b42e040194622c5758b22a7a25dc` | [完整准备与测试交接](https://github.com/Metry2026/doc/tree/final/metax/handoff/metax) |
+[最后交付与取得状态](https://github.com/Metry2026/doc/tree/main/delivery/w023-v3) · [采用依据](https://github.com/Metry2026/doc/tree/main/records/adopted) · [失败及未采用原因](https://github.com/Metry2026/doc/tree/main/records/not-adopted)
 
-配套的 plugin 与 FlagGems 必须按同一平台配对，完整版本表、实验结论与恢复入口统一维护在 [项目文档首页](https://github.com/Metry2026/doc)。
-
-```bash
-git clone --single-branch --branch final/iluvatar https://github.com/Metry2026/FlagGems.git
-# 沐曦请改用 --branch final/metax
-```
-
-[历史原始实验数据](https://github.com/Metry2026/doc/releases/tag/minicpm-experiment-originals-20261115) · [未采用实验的记录与原因](https://github.com/Metry2026/doc/tree/main/experiments/failures)
-
-天数 r7 的本机材料验收与官网提交分别记录；沐曦当前生产父与后续测试停点以交接文档为准。
+平台r7和B0属于历史实测/基线，以标签保存；不再作为最后交付入口。项目结束不增加新的验证或官网提交声明。
 
 ---
 
 ## 上游项目说明
+
 
 [<img width="2182" height="602" alt="github+banner-20260130" src="https://github.com/flagos-ai/FlagGems/blob/master/.github/assets/banner-20260130.png" />](https://flagos.io/)
 
